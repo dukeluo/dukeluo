@@ -1,4 +1,4 @@
-# Hi, I'm Huan
+## Hi, I'm Huan
 
 [![](https://img.shields.io/badge/-_-black?style=flat-square&logo=github)](https://github.com/DukeLuo)
 [![](https://img.shields.io/badge/-_-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/12814009)
@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-_-black?style=flat-square&logo=rss)](https://shaiwang.life/atom.xml)
 [![](https://komarev.com/ghpvc/?username=dukeluo&label=visitors&style=flat-square)](https://github.com/DukeLuo)
 
-## Skills
+### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23EDDC68?style=flat-square)
 ![Typescript](https://img.shields.io/badge/-TypeScript-%233478C6?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-%235A7D9A?style=flat-square)
@@ -36,5 +36,5 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-%235BA3E4?style=flat-square)
 ![Chrome](https://img.shields.io/badge/-Chrome-%235482E5?style=flat-square)
 
-## 𝗦𝘁𝗮𝘁𝘀
+### 𝗦𝘁𝗮𝘁𝘀
 <img src="https://github-readme-stats.vercel.app/api?username=DukeLuo&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
