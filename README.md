@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/-_-black?style=flat-square&logo=npm)](https://www.npmjs.com/~dukeluo)
 [![](https://img.shields.io/badge/-_-black?style=flat-square&logo=rss)](https://shaiwang.life/atom.xml)
 [![](https://komarev.com/ghpvc/?username=dukeluo&label=visitors&style=flat-square)](https://github.com/DukeLuo)
+[![](https://img.shields.io/badge/dynamic/json?style=flat-square&label=npm%20downloads&query=$.count&url=https://github-readme-npm-stats.vercel.app/api/downloads?author=dukeluo)](https://www.npmjs.com/~dukeluo)
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23EDDC68?style=flat-square)
