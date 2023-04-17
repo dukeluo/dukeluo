@@ -25,6 +25,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-%23894559?style=flat-square)
 ![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-%23E9554E?style=flat-square)\
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-%234182EF?style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=flat-square)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23390590?style=flat-square)\
 ![Git](https://img.shields.io/badge/-Git-%23D8593D?style=flat-square)
 ![IDEA](https://img.shields.io/badge/-IDEA-%23000000?style=flat-square)
