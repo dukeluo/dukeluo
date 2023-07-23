@@ -1,12 +1,15 @@
 ## Hi 👋, I'm Huan
+
 [![](https://img.shields.io/badge/-_-black?style=flat-square&logo=github)](https://github.com/DukeLuo)
 [![](https://img.shields.io/badge/-_-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/12814009)
 [![](https://img.shields.io/badge/-_-black?style=flat-square&logo=npm)](https://www.npmjs.com/~dukeluo)
 [![](https://img.shields.io/badge/-_-black?style=flat-square&logo=rss)](https://shaiwang.life/atom.xml)
 [![](https://komarev.com/ghpvc/?username=dukeluo&label=visitors&style=flat-square)](https://github.com/DukeLuo)
-[![](https://img.shields.io/badge/dynamic/json?style=flat-square&label=npm%20downloads&query=$.count&url=https://github-readme-npm-stats.vercel.app/api/downloads?author=dukeluo)](https://www.npmjs.com/~dukeluo)
+[![](https://img.shields.io/badge/dynamic/json?label=github%20stars&query=$.count&url=https://github-readme-stats-badges.vercel.app/api/github/stars?user=dukeluo)](https://github.com/DukeLuo)
+[![](https://img.shields.io/badge/dynamic/json?label=npm%20downloads&query=$.count&url=https://github-readme-stats-badges.vercel.app/api/downloads?author=dukeluo)](https://www.npmjs.com/~dukeluo)
 
 ### Skills
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23EDDC68?style=flat-square)
 ![Typescript](https://img.shields.io/badge/-TypeScript-%233478C6?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-%235A7D9A?style=flat-square)
@@ -31,6 +34,3 @@
 ![IDEA](https://img.shields.io/badge/-IDEA-%23000000?style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS_Code-%235BA3E4?style=flat-square)
 ![Chrome](https://img.shields.io/badge/-Chrome-%235482E5?style=flat-square)
-
-### 𝗦𝘁𝗮𝘁𝘀
-<img src="https://github-readme-stats.vercel.app/api?username=dukeluo&show_icons=true&locale=en&hide_title=true" alt="dukeluo" />
